@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'xthreg': Estimate fixed-effect panel threshold models based on the method proposed by Hansen (1999) Use xthreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lxthreg.mlib
+f xthcov.ado
+f xthreg.ado
+f xthreg.sthlp
+f xthsig.ado
