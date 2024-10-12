@@ -1,6 +1,8 @@
 # xthreg
 Estimate fixed-effect panel threshold models based on the method proposed by Hansen (1999) Use xthreg With STATA 18
 
+https://www.youtube.com/watch?v=rOU6bzTMPHo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
